@@ -30,5 +30,6 @@ class String
     count = 0
     self.split('.')
     self.split('!')
+    self.split
   end
 end
