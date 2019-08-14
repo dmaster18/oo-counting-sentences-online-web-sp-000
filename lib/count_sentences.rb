@@ -4,6 +4,7 @@ class String
 
   def sentence?(called_string)
     if called_string.end_with?(".") == true
+      TRUE
   end
 
   def question?
