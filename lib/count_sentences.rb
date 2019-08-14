@@ -31,8 +31,3 @@ class String
   end
 end
 
-puts "Hello, my name is John. How are you doing today? I am great! However, I am not so certain about that anymore".count_sentences
-
-puts "returns zero if there are no sentences in a string".count_sentences
-
-puts "This, well, is a sentence. This is too!! And so is this, I think? Woo...".count_sentences
