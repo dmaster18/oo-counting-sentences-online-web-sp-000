@@ -31,4 +31,4 @@ class String
   end
 end
 
-puts "Hello, my name is John. How are you doing today? I am great! However, I am not so certain about that anymore".
+puts "Hello, my name is John. How are you doing today? I am great! However, I am not so certain about that anymore".count_sentences
