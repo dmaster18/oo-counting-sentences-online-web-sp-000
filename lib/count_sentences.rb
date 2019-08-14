@@ -2,7 +2,7 @@ require 'pry'
 
 class String
 
-  def sentence?()
+  def sentence?(called_string)
     
   end
 
